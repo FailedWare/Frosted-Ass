@@ -13,7 +13,7 @@ Go here for a preview of ***Frosted-Ass*** https://imgur.com/6jBYXFk
 ### BetterDiscord Installation
 
 ***Windows/Linux/MacOS***
-- Drag ***Theme.css*** out of the ***Frosted-Ass*** folder
+- Drag ***Theme.css*** out of the ***Frosted-Ass*** folder (Don't include ***powercord_manifest.json*** it should only be included if your using a Powercord client)
 - Drag ***Theme.css*** into ***BetterDiscords*** themes folder.
 - Theme should be installed (Refresh if you dont see it)
 
