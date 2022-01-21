@@ -17,4 +17,6 @@ Go here for a preview of ***Frosted-Ass*** https://imgur.com/6jBYXFk
 - Drag ***Theme.css*** into ***BetterDiscords*** themes folder.
 - Theme should be installed (Refresh if you dont see it)
 
+***Unconfirmed if Frosted-Ass can work with other modded discord clients***
+
 ### Remember to report problems in Issues!
